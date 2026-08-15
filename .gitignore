@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+.local/
+.env
+
+railway-migration.sql
+
+.pgdata/
+.pm2/
+db-test.log
